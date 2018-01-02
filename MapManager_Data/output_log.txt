@@ -1,0 +1,163 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7674
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.027 seconds
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.236239 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.812012 ms
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1285.
+Total: 1.328501 ms (FindLiveObjects: 0.111225 ms CreateObjectMapping: 0.041207 ms MarkObjects: 1.111521 ms  DeleteObjects: 0.063817 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.664388 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 1.937504 ms (FindLiveObjects: 0.111954 ms CreateObjectMapping: 0.030267 ms MarkObjects: 1.783248 ms  DeleteObjects: 0.011304 ms)
+
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\System.Drawing.dll (this message is harmless)
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\Accessibility.dll (this message is harmless)
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libc
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\libc
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libc
+Platform assembly: F:\GitHubProj\MapManager_Build v0.2\MapManager_Data\Managed\Mono.Posix.dll (this message is harmless)
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libc
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\libc
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libc
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/libX11
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/.\lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Fallback handler could not load library F:/GitHubProj/MapManager_Build v0.2/MapManager_Data/Mono/lib/System/Library/Frameworks/Carbon.framework/Versions/Current/Carbon
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.603260 ms
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 1285.
+Total: 125.796307 ms (FindLiveObjects: 0.189629 ms CreateObjectMapping: 0.076945 ms MarkObjects: 2.395897 ms  DeleteObjects: 123.133469 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5468 -> priority: 1 
+  Thread -> id: 10d78 -> priority: 1 
+  Thread -> id: 5d10 -> priority: 1 
+  Thread -> id: 1232c -> priority: 1 
