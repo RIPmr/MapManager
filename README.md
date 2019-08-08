@@ -2,7 +2,7 @@
 方便管理贴图的工具 A tool to manage your textures easily
 ## 使用教程 How To Use
 
-我尽量使用中英双语写这份使用教程，但我的英语不是很好，如果你发现英文版有任何错误，请向我指出，非常感谢！ I try to write this tutorial in Chinese and English, but my English is not very good. If you find any mistakes in the English version, please point out to me, thank you very much.
+我尽量使用中英双语写这份使用教程，但我的英语不是很好，如果你发现英文版有任何错误，请向我指出，非常感谢！ I try to write this tutorial in Chinese and English, but my English is not very good. If you find any mistakes in the English version, it would be nice of you to point out for me.
 
 首先，打开MapManager Firstly, open your MapManager<br>
 ![screenshot1](https://github.com/RIPmr/MapManager/raw/master/Screenshots/1.png)<br><br>
@@ -39,7 +39,7 @@
 ![screenshot13](https://github.com/RIPmr/MapManager/raw/master/Screenshots/13.png)<br>
 ![screenshot14](https://github.com/RIPmr/MapManager/raw/master/Screenshots/14.png)<br><br>
 
-如果你看到下面的预览，这说明这张图片的格式不被支持，现在支持的格式包括jpg/png/bmp,但不支持预览的图片一样可以被复制导出 If you see the following preview, it means that the format of this picture is not supported. But these pictures can be exported as well. The format supported now is jpg/png/bmp.<br>
+如果你看到下面的预览，这说明这张图片的格式不被支持，现在支持的格式包括jpg/png/bmp,但不支持预览的图片一样可以被复制导出 If you see the following preview, it means that the format of this picture is not supported. But these pictures can be exported as well. The format supported now is jpg/png/bmp, more formats will be supported in the future.<br>
 ![screenshot15](https://github.com/RIPmr/MapManager/raw/master/Screenshots/15.png)<br><br>
 
 感谢你的使用，软件将不定期更新 Thanks for your use, the software will be updated regularly
