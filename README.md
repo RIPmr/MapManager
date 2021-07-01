@@ -1,23 +1,31 @@
-<center>
+<p align="center">
 <img src="Screenshots/ICON_NEW.png" width = "180" height = "180"/>
-<br>
-<br>
+</p>
+
+<div align='center'>
 
 # MapManager
 A tool to manage your textures easily
 
+</div>
 <br>
 
-# ScreenShots
+<div align='center'>
+  
+## ScreenShots
+  
+</div>
+
 ![screenshot1](Screenshots/16.png)
 ![screenshot1](Screenshots/17.png)
 ![screenshot1](Screenshots/18.png)
 
-<br>
 
+<div align='center'>
+  
 ## How To Use
 
-</center>
+</div>
 
 First, open the MapManager, then click 'Add Gallery' button or click '+' icon;<br>
 ![screenshot2](Screenshots/2.png)<br>
