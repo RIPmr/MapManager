@@ -17,7 +17,6 @@ A tool to manage your textures easily
 </div>
 
 <div align='center'><img src="Screenshots/16.png" width="600"></div>
-<div align='center'><img src="Screenshots/17.png" width="600"></div>
 <div align='center'><img src="Screenshots/18.png" width="600"></div>
 
 <div align='center'>
