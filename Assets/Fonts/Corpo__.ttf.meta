@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5cd4ed2a24c68fd4d99ba1c1d9ecf160
+timeCreated: 1514271344
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Corporate
+  fontNames:
+  - Corporate
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

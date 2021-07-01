@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 86060523f1ef4de478577e6d5115aa8d
+timeCreated: 1514271269
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CFB1 American Patriot
+  fontNames:
+  - CFB1 American Patriot
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
